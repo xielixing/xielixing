@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @xielixing
-- 👀 I’m interested in NLP|Machine Learning
-- 🌱 I’m currently learning in University of Edinburg
+- 👀 I’m interested in LLM(Large language models)
+- 🌱 I’m currently working in Huawei Technologies Co., Ltd.
 - 📫 How to reach me ? 
-     Email me: s2148594@ed.ac.uk
+     Email me: xielixing@huawei.com
 
 <!---
 xielixing/xielixing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
